@@ -1,1 +1,3 @@
-:white_check_mark: Add a README file
+This is the first lesson of node.js
+Express documentation. https://expressjs.com/
+I will build ...
